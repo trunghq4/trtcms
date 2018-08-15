@@ -1,0 +1,14 @@
+.addmore{
+	display: none;
+	position: fixed;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: #2A3F54;
+}
+@media screen and (min-width: 1000px){
+	.addmore{
+		width:450px;
+		height: 220px;
+	}
+}

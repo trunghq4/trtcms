@@ -1,0 +1,9 @@
+22-01-2018: add Simple HTML Dom Class
+
+30-01-2018: add on/off module function
+	    edit module edit_user(module)
+	    fix some bug
+
+02-02-2018: add Maintanance mode
+
+16-03-2018: fix bug Statistic referer

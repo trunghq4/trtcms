@@ -1,0 +1,41 @@
+#list-menu ol li{
+	list-style: none;
+	min-height: 35px;
+	line-height: 35px;
+	text-align: left;
+	cursor: move;
+	border:2px solid #fff;
+	background: #2A3F54;
+	padding-left: 15px;
+	color:#fff;
+	width: 100%;
+	position: relative;
+}
+#list-menu ol li .edit{
+	position: absolute;
+	right:15px;
+	top:0px;
+}
+#list-menu ol li .edit a{
+	color:#fff;
+}
+#list-menu ol li .edit a:hover{
+	color:#f2f2f2;
+}
+#list-menu ol li ol li{
+	border-right: 0px;
+	border-bottom: 0px;
+}
+ol.list-menu li.placeholder {
+  position: relative;
+  /** More li styles **/
+}
+ol.list-menu li.placeholder:before {
+  position: absolute;
+  /** Define arrowhead **/
+}
+.dragged {
+  position: absolute;
+  opacity: 0.5;
+  z-index: 2000;
+}

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Error</title>
+</head>
+<body style="font-family: Arial; font-size: 13px">
+    <form id="form1" runat="server">
+    <div style="width: 600px; margin: 0 auto;padding-top:150px">
+        <div style="float: left; padding-top: 0px">
+            <img alt="Error" src="/images/error.png" /></div>
+        <div style="float: left; color: Gray">
+            <h1 style="margin: 0px; padding: 0px">
+                error</h1>
+            <p style="padding: 0px; margin: 0px;line-height:25px">
+                oop!! Trang web bạn xem không có thật hoặc chúng tôi đã xóa nó<br />
+                Vui lòng thử lại (F5) hoặc quay lại <a href="/trang-chu.htm" style="color:#00AAE9" title="Trang chủ">Trang
+                    chủ</a> của chúng tôi</p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
